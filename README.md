@@ -14,3 +14,4 @@ usage method:
 wget  https://github.com/11275/Nim/blob/main/Nimble.sh  && chmod u+x Nimble.sh && bash Nimble.sh
 
 At present, only the Chinese version is available, and the English version will be updated later
+![image](https://github.com/user-attachments/assets/35e3b190-b119-467b-ab02-f1f406aed76a)
