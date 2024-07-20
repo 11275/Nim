@@ -1,14 +1,6 @@
 此脚本用于ubuntu Nimable教程，开箱即可使用，感觉无须任何教程，
 当然有需要可以强烈要求我出教程
 
-
-觉得好用的请给我点个小星星
-觉得好用的请给我点个小星星
-觉得好用的请给我点个小星星
-觉得好用的请给我点个小星星
-觉得好用的请给我点个小星星
-觉得好用的请给我点个小星星
-
  
 使用方法：
 wget https://github.com/11275/Nim/blob/main/Nimble.sh && chmod u+x Nimble.sh && bash Nimble.sh
