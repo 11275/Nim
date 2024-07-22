@@ -43,12 +43,17 @@ wget https://raw.githubusercontent.com/11275/Nim/main/Nimble_en_noask.sh && chmo
 
 
 Updated on July 22nd
+
 Upgrade version Nimble.sh
 Add 11 common questions and increase estimated revenue options
+
 Update time 7-20
+
 Upgrade version Nimble-v2.0.sh
 Add script options for multi card usage and add one click single card and one click multi card options
+
 Updated on 7-16
+
 Preliminary script Nimble-v1.sh
 The single card quick start function has been installed on machines that have already installed the environment, and there are guidelines and prompts for quickly using new and old wallets for mining
 ![微信图片_20240723000041](https://github.com/user-attachments/assets/c75104a6-492d-4b1b-ae7f-8dfdbb3c7801)
