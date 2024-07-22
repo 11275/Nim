@@ -36,7 +36,7 @@ This script is mainly designed to help beginners understand the NIM process fast
 
 If you have already been exposed to NIM, you can use the no problem request version
 Next is the usage method
-wget https://raw.githubusercontent.com/11275/Nim/main/Nimble_en _noask.sh && chmod u+x Nimble.sh && bash Nimble_en _noask.sh 
+wget https://raw.githubusercontent.com/11275/Nim/main/Nimble_en_noask.sh && chmod u+x Nimble.sh && bash Nimble_en_noask.sh 
 
 
 Updated on July 22nd
