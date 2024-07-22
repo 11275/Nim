@@ -27,7 +27,9 @@ English usage instructions
 
 
 
-First use method
+First use method::::
+
+
 wget https://raw.githubusercontent.com/11275/Nim/main/Nimble_en.sh && chmod u+x Nimble.sh && bash Nimble_en.sh 
 
 Important Reminder！！！！！
@@ -35,7 +37,8 @@ Important Reminder！！！！！
 This script is mainly designed to help beginners understand the NIM process faster. A large number of common questions have been added at the beginning and some questions have been set to avoid constantly asking common questions，Recommended for newcomers to use
 
 If you have already been exposed to NIM, you can use the no problem request version
-Next is the usage method
+Next is the usage method::::::
+
 wget https://raw.githubusercontent.com/11275/Nim/main/Nimble_en_noask.sh && chmod u+x Nimble.sh && bash Nimble_en_noask.sh 
 
 
