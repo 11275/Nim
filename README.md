@@ -7,7 +7,8 @@ rm -rf  Nimble.sh && wget https://raw.githubusercontent.com/11275/Nim/main/Nimbl
 第一次使用方式 
 wget https://raw.githubusercontent.com/11275/Nim/main/Nimble.sh && chmod u+x Nimble.sh && bash Nimble.sh 
 
-
+更新时间 8-8
+针对多卡用户同一目录有可能会出现 多卡输出同一文件问题解决增加多目录运行模式
 
 更新时间 7-22
 升级版本 Nimble.sh
