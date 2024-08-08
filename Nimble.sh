@@ -1135,7 +1135,7 @@ function main_menu_ch(){
     echo "33. 参考算力表 "
     echo "==================================================说再见系列========================================================================"
     echo "34. 卸载nimble挖矿 "
-    read -p "请输入选项（1-29）: " OPTION
+    read -p "请输入选项（1-34）: " OPTION
     case $OPTION in
     1) allConfirm=n && one_click_one_gpu ;;
     2) allConfirm=n && one_click_gpus ;;
