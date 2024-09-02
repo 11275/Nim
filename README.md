@@ -1,3 +1,33 @@
+最新nim 教程
+
+无cuda
+cd $HOME/nimble
+cd nimble-miner-public
+git stash
+git pull
+sudo add-apt-repository ppa:graphics-drivers/ppa 
+sudo apt update 
+sudo apt install nvidia-driver-550-server
+sudo apt install nvidia-cuda-toolkit
+sudo apt install curl
+sudo apt-get install -y libcurl4-openssl-dev
+mkdir /etc/nimbleservice
+echo "NIMBLE_PUBKEY=你的钱包地址" > /etc/nimbleservice/nimbleservice.conf
+chmod +x nimbleminer
+./nimbleminer
+
+有cuda
+cd $HOME/nimble
+cd nimble-miner-public
+git stash
+git pull
+mkdir /etc/nimbleservice
+echo "NIMBLE_PUBKEY=你的钱包地址" > /etc/nimbleservice/nimbleservice.conf
+chmod +x nimbleminer
+./nimbleminer
+
+
+
 此脚本用于ubuntu Nimable教程，开箱即可使用，感觉无须任何教程，
 
 升级脚本方式
